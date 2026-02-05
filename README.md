@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bulana Bimsith</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
-- 🔭 I’m currently working on [Gsouthern](gsouthern.lk)
+- 🔭 I’m currently working on <a href="gsouthern.lk">Gsouthern</a>
 
 - 🌱 I’m currently learning **Collage of Technology Galle**
 
